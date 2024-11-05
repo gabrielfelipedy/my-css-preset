@@ -1,3 +1,3 @@
-# MY OWN CSS PRESET
+# MY OWN SCSS PRESET
 
 My own classes and customizations I at every work I get
